@@ -9,8 +9,9 @@ img {
 
 .carousel-container {
     width: 50%;
-    margin: 0 auto;
-    overflow: hidden;
+    margin: auto;
+    /* overflow: hidden; */
+    border: 5px solid green;
 }
 
 .carousel-slide {
