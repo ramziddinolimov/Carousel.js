@@ -10,8 +10,8 @@ img {
 .carousel-container {
     width: 50%;
     margin: auto;
-    /* overflow: hidden; */
-    border: 5px solid green;
+    overflow: hidden; 
+    border: 5px solid black;
 }
 
 .carousel-slide {
